@@ -1,5 +1,8 @@
 # Jurassic Asset Studio
 
+<img width="1917" height="1018" alt="Screenshot 2026-10-14 051042" src="https://github.com/user-attachments/assets/a257d817-6229-42a6-b833-3196ec7dfd6b" />
+
+
 A Windows asset browser and 3D model viewer for **Jurassic Park: The Game** by Telltale Games. Browse the installed game archives, preview models and skeletal animations, and export assets for use in other tools.
 
 ## Getting started
