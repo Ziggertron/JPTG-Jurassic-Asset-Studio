@@ -1,0 +1,34 @@
+Jurassic Asset Studio uses:
+
+Telltale Explorer by coccofresco
+https://github.com/coccofresco/telltale-explorer
+The upstream README declares the project MIT licensed.
+Archive, mesh, skeleton, texture and animation readers are used and adapted.
+
+Three.js (version 0.180.0), Copyright 2010-2025 Three.js Authors.
+MIT license. The complete license is included in web/vendor/THREE-LICENSE.txt.
+
+pywebview (version 6.2.1), BSD-3-Clause.
+Python.NET (version 3.2.1), MIT.
+clr-loader (version 0.3.1), MIT.
+imageio-ffmpeg (version 0.6.0), BSD-2-Clause.
+FFmpeg bundled by imageio-ffmpeg, LGPL / GPL components as configured by upstream.
+The package's accompanying licensing files are included in licenses/.
+PyInstaller (version 6.22.3) is used to package the app under its bootloader exception.
+
+Format references:
+Random Talking Bush's TelltaleGames_D3DMesh.ms
+https://github.com/RandomTBush/RTB-3DSMax-Scripts
+Lucas Saragosa's TelltaleToolLib
+https://github.com/LucasSaragosa/TelltaleToolLib
+Telltale Speech Extractor by bgbennyboy (VOX packet layout reference)
+https://github.com/bgbennyboy/Telltale-Speech-Extractor
+
+Telltale game assets belong to their respective rights holders. No game files
+apart from the requested logo/icon are distributed in the EXE. The application reads the user's local installation.
+
+Jurassic Park heading font by Filmfonts / Jens R. Ziehn, freeware non-commercial.
+Source: https://www.fontspace.com/jurassic-park-font-f3555
+See licenses/Jurassic-Park-Font.txt.
+The bundled logo/icon is extracted from the user's Jurassic Park: The Game installation.
+

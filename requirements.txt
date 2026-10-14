@@ -1,0 +1,4 @@
+# Runtime dependencies for Windows / Python 3.10 or later.
+Pillow>=10.0,<13.0
+pywebview==6.2.1
+imageio-ffmpeg==0.6.0

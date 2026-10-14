@@ -1,0 +1,12 @@
+Bundled audio converter:
+FFmpeg 7.1 essentials Windows x86-64 build from https://www.gyan.dev/ffmpeg/builds/
+Distributed by imageio-ffmpeg 0.6.0.
+Built with --enable-gpl --enable-version3; GPL version 3 applies to this binary.
+GPL text is supplied in FFMPEG-GPLv3.txt.
+FFmpeg source for the matching upstream version:
+https://github.com/FFmpeg/FFmpeg/tree/n7.1
+Build configuration and build-provider source information:
+https://www.gyan.dev/ffmpeg/builds/
+imageio binary distribution:
+https://github.com/imageio/imageio-binaries/tree/master/ffmpeg
+The converter is executed as a separate program; it is not linked into the viewer.

@@ -1,0 +1,30 @@
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Build outputs
+build/
+dist/
+*.spec
+*.exe
+*.zip
+
+# Local application data and exported game assets
+cache/
+settings.json
+desktop-health.json
+startup-error.txt
+*.glb
+*.gltf
+*.bin
+*.ttarch
+*.iso
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
